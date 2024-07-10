@@ -1,0 +1,39 @@
+
+.top-right{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    margin: 10px;
+    background-color: lightgray; /* Optional: for better visibility */
+    padding: 5px;
+    border-radius: 5px; /* Optional: for better appearance */
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightgray; /* Optional: for better visibility */
+    padding: 5px;
+    border-radius: 5px; /* Optional: for better appearance */
+}
+.search-field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray; /* Optional: for better visibility */
+    padding: 5px;
+    border-radius: 5px; /* Optional: for better appearance */
+}
+.logo-subtext{
+    color: blue;
+}
+.advanced-search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightgray; /* Optional: for better visibility */
+    padding: 5px;
+    border-radius: 5px; /* Optional: for better appearance */
+}
